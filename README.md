@@ -62,7 +62,7 @@ func application(_ app: UIApplication, open url: URL,
 }
 ```
 
-### 5. no more steps in App
+### 5. No more steps in App
 
 
 
